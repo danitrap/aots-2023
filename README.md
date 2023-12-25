@@ -1,0 +1,4 @@
+# TypeHero's Advent of TypeScript
+
+This repository contains my solutions to TypeHero's
+[Advent of Typescript](https://typehero.dev/aot-2023) challenge.
